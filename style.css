@@ -1,0 +1,21 @@
+.footer{
+ center-block: auto;   
+}
+.container-responsive img{
+    width: 100%;
+}
+.logo{
+    height: 75px;
+    
+}
+/*.navbar-header{
+    background-color: transparent !important;
+    position: float;
+    display: block-right;
+}*/
+.row3{
+   text-align: right;
+}
+.media-icons{
+    list-style: none;
+}
